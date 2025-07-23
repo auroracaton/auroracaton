@@ -44,7 +44,7 @@ associated with increased risk of developing diabetes, using R and logistic regr
 ## 📫 Connect with Me
 - Bethlehem, PA  
 - [Download My Resume](AuroraCatonResume.pdf) 
-- [LinkedIn](www.linkedin.com/in/auroracaton)
+- [LinkedIn](https://www.linkedin.com/in/auroracaton)
 
 
 
