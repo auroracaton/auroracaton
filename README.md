@@ -12,7 +12,7 @@ While I've worked on projects ranging from healthcare research to customer behav
 Currently exploring opportunities in data, product, research, and creative tech spaces.
 
 
-- Research Associate in Biostatistics & Health Data Science at Lehigh College of Health.
+- Research Associate in Biostatistics & Data Science at Lehigh University.
 - Developing Neural Networks to predict Drug-Induced Autoimmunity more efficiently  
 - President of the Institute for Healthcare Improvement Club 
 - Participant in the selective LehighSiliconValley program for Entrepreneurship and Innovation
@@ -29,8 +29,8 @@ Currently exploring opportunities in data, product, research, and creative tech 
 ---
 
 ## Projects & Work Samples
-- Currently conducting research within the College of Health, Department of Biostatistics and Health Data Science:
-> - Developing ensemble machine learning methods for an Interpretable Machine Learning Public Health Project
+- Currently conducting research at Lehigh University:
+> - Developing ensemble machine learning methods for an Interpretable Machine Learning Project
 > - Developing and training Neural Networks using Python to enhance the efficiency and accuracy of Drug Induced Autoimmunity prediction.
 
 - Project examples:
