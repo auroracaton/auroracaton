@@ -9,7 +9,7 @@
 ##  About Me
 I am a recent graduate from Lehigh University with a B.S. in Business Analytics and a passion for solving real world problems through data, design, and innovation. My work bridges technical skills with real world impact, driven by curiosity and a passion for meaningful change.
 While I've worked on projects ranging from healthcare research to customer behavior analytics, I'm drawn to any role that values curiosity, problem-solving, and creativity. Whether it's analyzing data, designing better experiences, or building something new, I’m excited by work that blends logic with experimentation.
-Currently exploring opportunities in business analytics, data, product, research, and creative tech spaces.
+Currently exploring opportunities in business analytics, data, product, research, healthcare, and creative tech spaces.
 
 
 - Research Associate in Biostatistics & Data Science at Lehigh University.
